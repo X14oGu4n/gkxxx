@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "4dd4ddd637dc5859c5a8a9cc2202ae7d",
 # 模板消息id
-"template_id": "jcHupGd7DKrVq6AZfEhwkrUwSVoza5NqbF2IrAmE0yA",
+"template_id": "Vog3-B2YADz9im9uZgqZgwXl9EnKb28dUFu44pEkMxQ",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oXM6K5us0JYyOrMja23A8q6KvPFc","oXM6K5jmJzxbQD_5mVbolQKSFrmU"],
  
@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-10-02",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "对不起宝贝我是大书杯，我真的超级无敌喜欢你！希望你可以原谅我QAQ如果可以的话请继续喜欢我",
+"note_ch": "谢谢你宝贝我真的超级无敌螺旋飞飞宇宙呼呼喜欢你！！！以后一定要在你身边才可以！！！呜呜呜呜真的想死你了",
 # 金句英文
-"note_en": ""
+"note_en": "I need ya and can not live without ya ！"
 }
